@@ -2,11 +2,11 @@
 <h4 align="center">An IT company based in Lahore, Pakistan</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mudashtechnologies&label=Profile%20views&color=0e75b6&style=flat" alt="mudashtechnologies" /> </p>
-<img align="right" alt="Coding" width="300" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
 ### 💫 About Us:
 
-- 🔭 We’re currently working on **Machine Learning/Deep Learning**
+- 🔭 We’re currently working on **Data Science & ML**
 
 - 🌱 We're currently learning **PyTorch, TorchVision, KerasCV, KerasNLP**
 

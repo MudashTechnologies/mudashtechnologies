@@ -6,17 +6,17 @@
 
 ### 💫 About Us:
 
-- 🔭 We’re currently working on **Data Science & ML**
+- 🔭 We’re currently working on **Software Engineering & Development**
 
-- 🌱 We're currently learning **PyTorch, TorchVision, KerasCV, KerasNLP**
+- 🌱 We're currently learning **Software Design & Architecture**
 
-- 👯 We're looking to collaborate on **Deep Learning**
+- 👯 We're looking to collaborate on **Software Consultancy**
 
-- 🤝We're looking for help with **Generative Deep Learning**
+- 🤝We're looking for help with **Industrial Software Development**
 
 - 👨‍💻 All of our projects are available at [https://github.com/MudashTechnologies/ml_projects](https://github.com/MudashTechnologies/ml_projects)
 
-- 💬 Ask us about **ML, DL, Artificial Intelligence, Data Science, Applied AI, MLOPs**
+- 💬 Ask us about **Software Engineering, SDA, Human-Computer Interaction, OOAD and Documentation**
 
 - 📫 How to reach us **mudashtechnologies@gmail.com**
 
